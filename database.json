@@ -1,0 +1,20 @@
+{
+"Books":{		
+	"Book001":{
+		"title": "Python 101",
+		"author": "Iveelt Batjargal",
+		"due_days": 14
+	},
+	"Book002": {
+		"title": "Data Science",
+		"author": "Eddie",
+		"due_days": 21
+	},
+	"Book003": {
+		"title": "ML for VFX",
+		"author": "Eddie Ivba",
+		"due_days": 30
+		},
+	}
+}
+
